@@ -3,6 +3,6 @@ package com.ShaBris.Connection;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        System.out.println("Hello Test connection world!");
     }
 }
