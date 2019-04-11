@@ -1,8 +1,8 @@
  This is a repo created soley for the purpose of testing connections.
  and also to test the addition of a gpg key.
  
-Test without signing. commit 3
+Test without signing. commited 3
 
-Test with signing commit 4
+Test with signing commited 4
 
-Test without signing commit 5
+Test without signing commited 5
