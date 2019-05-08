@@ -17,4 +17,6 @@ Test signing to secondary addy commit 9 not working
 
 Test signing to secondary addy commit 10 not working
 
-Test signing to secondary addy commit 11
+Test signing to secondary addy commit 11 not working from command line
+
+Test signing change to primary addy commit 12
